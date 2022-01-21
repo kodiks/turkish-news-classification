@@ -7,6 +7,11 @@
 
 - ["HuggingFace Türkçe Veri Kümeleri"](https://medium.com/kodiks/huggingface-turkce-verikumeleri-6d213dd63966) blog yazısında HuggingFace Datasets Kütüphanesine yeni veri kümelerini entegre etme [maratonunda](https://discuss.huggingface.co/t/open-to-the-community-one-week-team-effort-to-reach-v2-0-of-hf-datasets-library/2176) eklediğimiz veri kümeleri hakkındaki detaylı bilgi alabilirsiniz.
 
+## Demo
+ Huggingface Spaces Web Demo:
+
+<a href="https://huggingface.co/spaces/Kodiks/turkish-news-classification"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue" alt="kodiks-turkish-news-classification-demo"></a> 
+
 
 ## Veri Kümesi
 
